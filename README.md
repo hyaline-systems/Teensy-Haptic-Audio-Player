@@ -1,12 +1,18 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # Teensy-Haptic-Audio-Player
+
+![the PCB](hapticscreenshot.png) 
 
 A PCB designed for audio and haptic projects with [a Teensy 4.0](https://www.pjrc.com/store/teensy40.html). 
 
 It allows you to play audio from the computer as a sound card when connected via USB or from audio files via the on board SD card reader.
 
-The audio will then be output both to a 3.5mm audio jack and a haptic driver that will vibrate in sync with the audio.
+The audio will then be output both to a 3.5mm audio jack and a haptic driver that will make a vibration motor [like this one](https://www.adafruit.com/product/1201) vibrate in sync with the audio, kinda like in a gamepad, sex toy or phone.
 
 The whole thing is open source and hackable and is designed to be used for many different scenarios.
+
+See [hyaline.systems](https://hyaline.systems) for more information. Send an email if you want to buy a board. 
 
 ## Features
 
