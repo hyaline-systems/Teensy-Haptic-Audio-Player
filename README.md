@@ -6,9 +6,9 @@
 
 A PCB designed for audio and haptic projects with [a Teensy 4.0](https://www.pjrc.com/store/teensy40.html). 
 
-It allows you to play audio from the computer as a sound card when connected via USB or from audio files via the on board SD card reader.
+Among other things, it can be used to play audio from the computer as a sound card when connected via USB or from audio files via the on board SD card reader. The audio will then be output both to a 3.5mm audio jack and a haptic driver that will make a vibration motor [like this one](https://www.adafruit.com/product/1201) vibrate in sync with the audio, kinda like in a gamepad, sex toy or phone.
 
-The audio will then be output both to a 3.5mm audio jack and a haptic driver that will make a vibration motor [like this one](https://www.adafruit.com/product/1201) vibrate in sync with the audio, kinda like in a gamepad, sex toy or phone.
+Another usecase is simply as a high quality audio development platform.
 
 The whole thing is open source and hackable and is designed to be used for many different scenarios.
 
