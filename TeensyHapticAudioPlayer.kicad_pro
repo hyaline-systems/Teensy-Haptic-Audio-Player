@@ -52,7 +52,18 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|25100000|39600000|915f9521-7457-4290-93c8-e90fb1a94c33|66f7be7c-1528-4b38-9722-0055903c9d40",
+        "clearance|25100000|40600000|66f7be7c-1528-4b38-9722-0055903c9d40|0badf10b-2258-46b4-be82-21590b275f97",
+        "clearance|25100000|41600000|0badf10b-2258-46b4-be82-21590b275f97|52e8a876-ae6a-4263-8386-6a6c1db697db",
+        "clearance|25100000|42600000|52e8a876-ae6a-4263-8386-6a6c1db697db|0bd81465-9e5b-48e2-b5e4-3c4620e21eb0",
+        "clearance|25100000|43600000|0bd81465-9e5b-48e2-b5e4-3c4620e21eb0|5dc221c4-1cf5-4fb6-9282-9e0402bbd8f5",
+        "clearance|25100000|44600000|5dc221c4-1cf5-4fb6-9282-9e0402bbd8f5|4d131771-df38-4e9c-b3e3-d7e486a4d2d0",
+        "clearance|25100000|45600000|4d131771-df38-4e9c-b3e3-d7e486a4d2d0|75c30587-e890-475a-b9c1-8ac2d0c6cd32",
+        "silk_edge_clearance|15421600|38790000|b43f7b2d-704f-4e9f-ae32-4cdc434f44c5|db0856cd-6106-467d-832d-e9d91b369466",
+        "silk_edge_clearance|15421600|41646388|b43f7b2d-704f-4e9f-ae32-4cdc434f44c5|1b7e9599-0e14-4a7a-8ed8-e7dd40701e73",
+        "silk_edge_clearance|15449895|46410000|b43f7b2d-704f-4e9f-ae32-4cdc434f44c5|d901ad52-9e6c-42c0-be0f-edb9d97c2ff8"
+      ],
       "meta": {
         "version": 2
       },
@@ -586,6 +597,10 @@
     [
       "d38c145b-a107-42c2-af50-0131a78ae2c0",
       "spi_sdcard"
+    ],
+    [
+      "3d5ea0bf-84e1-49eb-87d3-daa2eecfc353",
+      "drv2605_haptic_voice"
     ]
   ],
   "text_variables": {}

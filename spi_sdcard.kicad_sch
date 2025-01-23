@@ -1224,6 +1224,12 @@
 					(unit 1)
 				)
 			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "R8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1289,6 +1295,12 @@
 			(project "Pico Programmable Audio Board"
 				(path "/6dfa9a67-65c2-4ced-aedc-9f2b89ec9f3e/3ea34d9a-e478-44d4-925d-899931fa4348"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -1359,6 +1371,12 @@
 					(unit 1)
 				)
 			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "#PWR0117")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1425,6 +1443,12 @@
 					(unit 1)
 				)
 			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "#PWR0114")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1488,6 +1512,12 @@
 			(project "Pico Programmable Audio Board"
 				(path "/6dfa9a67-65c2-4ced-aedc-9f2b89ec9f3e/3ea34d9a-e478-44d4-925d-899931fa4348"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -1558,6 +1588,12 @@
 					(unit 1)
 				)
 			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "#PWR0119")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1621,6 +1657,12 @@
 			(project ""
 				(path "/6dfa9a67-65c2-4ced-aedc-9f2b89ec9f3e/3ea34d9a-e478-44d4-925d-899931fa4348"
 					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -1689,6 +1731,12 @@
 			(project "Pico Programmable Audio Board"
 				(path "/6dfa9a67-65c2-4ced-aedc-9f2b89ec9f3e/3ea34d9a-e478-44d4-925d-899931fa4348"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -1762,6 +1810,12 @@
 					(unit 1)
 				)
 			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "C19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1829,6 +1883,12 @@
 			(project "Pico Programmable Audio Board"
 				(path "/6dfa9a67-65c2-4ced-aedc-9f2b89ec9f3e/3ea34d9a-e478-44d4-925d-899931fa4348"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -1921,6 +1981,12 @@
 					(unit 1)
 				)
 			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "J3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1987,6 +2053,12 @@
 					(unit 1)
 				)
 			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "#PWR0116")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2050,6 +2122,12 @@
 			(project ""
 				(path "/6dfa9a67-65c2-4ced-aedc-9f2b89ec9f3e/3ea34d9a-e478-44d4-925d-899931fa4348"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -2120,6 +2198,12 @@
 					(unit 1)
 				)
 			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2185,6 +2269,12 @@
 			(project "Pico Programmable Audio Board"
 				(path "/6dfa9a67-65c2-4ced-aedc-9f2b89ec9f3e/3ea34d9a-e478-44d4-925d-899931fa4348"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+			(project "TeensyHapticAudioPlayer"
+				(path "/fff210c3-ac53-484b-a809-6e96e3bbb090/d38c145b-a107-42c2-af50-0131a78ae2c0"
+					(reference "R9")
 					(unit 1)
 				)
 			)
