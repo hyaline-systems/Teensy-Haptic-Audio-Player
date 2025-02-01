@@ -21,30 +21,4 @@
       "command": "pio run -t compiledb",
     },
   
-
-    // Upload teensy40
-    {
-      "label": "upload teensy40",
-      "type": "shell",
-      "command": "pio run -t upload -e teensy40",
-    },
-    // Build teensy40
-    {
-      "label": "build teensy40",
-      "type": "shell",
-      "command": "pio run -e teensy40",
-    },
-
-    // Upload teensy32audioshield
-    {
-      "label": "upload teensy32audioshield",
-      "type": "shell",
-      "command": "pio run -t upload -e teensy32audioshield",
-    },
-    // Build teensy32audioshield
-    {
-      "label": "build teensy32audioshield",
-      "type": "shell",
-      "command": "pio run -e teensy32audioshield",
-    },
 ] }

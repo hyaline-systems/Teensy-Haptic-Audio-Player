@@ -34,30 +34,4 @@
       "type": "shell",
       "command": "pio run -e teensy40",
     },
-
-    // Upload teensy32audioshield
-    {
-      "label": "upload teensy32audioshield",
-      "type": "shell",
-      "command": "pio run -t upload -e teensy32audioshield",
-    },
-    // Build teensy32audioshield
-    {
-      "label": "build teensy32audioshield",
-      "type": "shell",
-      "command": "pio run -e teensy32audioshield",
-    },
-
-    // Upload teensy36
-    {
-      "label": "upload teensy36",
-      "type": "shell",
-      "command": "pio run -t upload -e teensy36",
-    },
-    // Build teensy36
-    {
-      "label": "build teensy36",
-      "type": "shell",
-      "command": "pio run -e teensy36",
-    },
 ] }
