@@ -12,7 +12,11 @@ Another usecase is simply as a high quality audio development platform.
 
 The whole thing is open source and hackable and is designed to be used for many different scenarios.
 
-See [hyaline.systems](https://hyaline.systems) for more information. Send an email if you want to buy a board. 
+See [hyaline.systems](https://hyaline.systems) for more information. 
+
+## Buying
+
+You can buy a board, either bare (no components) or SMD-populated (no Teensy included) by sending an email to [hi@hyaline.systems](mailto:hi@hyalyne.systems).
 
 ## Features
 
