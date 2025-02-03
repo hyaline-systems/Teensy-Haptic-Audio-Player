@@ -18,6 +18,8 @@ See [hyaline.systems](https://hyaline.systems) for more information.
 
 You can buy a board, either bare (no components) or SMD-populated (no Teensy included) by sending an email to [hi@hyaline.systems](mailto:hi@hyalyne.systems).
 
+If you just want to support the project, [consider making a donation through kofi](https://ko-fi.com/madskjeldgaard).
+
 ## Features
 
 - Designed for the very powerful Teensy 4.0 board.
