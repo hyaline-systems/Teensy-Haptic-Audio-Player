@@ -2,7 +2,7 @@
 
 # Teensy-Haptic-Audio-Player
 
-![the PCB](hapticscreenshot.png) 
+![the PCB](hardware/hapticscreenshot.png) 
 
 A PCB designed for audio and haptic projects with [a Teensy 4.0](https://www.pjrc.com/store/teensy40.html). 
 
