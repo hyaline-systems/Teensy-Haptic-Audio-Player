@@ -20,6 +20,9 @@ constexpr auto LED_PIN = 5;
 constexpr auto NUM_LEDS = 1;
 Adafruit_NeoPixel strip(NUM_LEDS, LED_PIN, NEO_GRB + NEO_KHZ800);
 
+// Brightness of the LED: 0-255
+constexpr auto brightness = 10;
+
 // Audio patch
 AudioInputUSB usb1;  // xy=200,69  (must set Tools > USB Type to Audio)
 AudioOutputI2S i2s1; // xy=365,94
@@ -58,6 +61,7 @@ void setLEDRed() {
 void setup() {
   Serial.begin(115200);
   strip.begin();
+  strip.setBrightness(brightness);
   setLEDRed();
 
   auto hapticOK = setupHapticDriver();
@@ -75,8 +79,8 @@ void setup() {
 
   Serial.println("Setup done");
   // Turn on Internal LED
-  pinMode(LED_BUILTIN, OUTPUT);
-  digitalWrite(LED_BUILTIN, HIGH);
+  // pinMode(LED_BUILTIN, OUTPUT);
+  // digitalWrite(LED_BUILTIN, HIGH);
 }
 
 void loop() {
